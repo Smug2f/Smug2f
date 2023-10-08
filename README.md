@@ -1,7 +1,7 @@
 # About me
 
 <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Smug2f&theme=omni&show_icons=true" />
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smug2f&layout=pie" />
+<img align ="left" width="47%" lenght="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smug2f&layout=pie" />
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
